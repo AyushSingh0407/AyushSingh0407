@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AyushSingh0407
-- 👀 I’m interested in work related to Python, CSS and HTML
-- 🌱 I’m currently gaining in depth knowledge of Python
-- 💞️ I’m looking to collaborate on projects which require Python or CSS or HTML
-- 📫 You can reach me on my mail i.e. anshsinghbaghel98765@gmail.com
+Hello! I'm Ayush Singh, a tech enthusiast with a strong background in various programming languages and technologies.
 
-<!---
-AyushSingh0407/AyushSingh0407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in work related to Python, Java, C, C++, CSS, and HTML.
+🌱 Currently, I'm diving deep into Java to enhance my skills further.
+🚀 I excel in software development, ranging from web technologies to blockchain.
+🤝 I led my winning team at Gravitas 2k23 in a Hackathon.
+💞️ I'm looking forward to collaborating on projects that involve Python, CSS, or HTML.
+Let's connect and explore opportunities in tech and leadership!
+
+Contact Me:
+📧 Email: anshsinghbaghel98765@gmail.com
+
+#Tech #Innovation #Leadership #Coding
